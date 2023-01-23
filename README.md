@@ -7,7 +7,7 @@ Fully responsive blog exploring minimalism in life using HTML and CSS
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [Built with](#built-with)
-- [Files & Directories](#files-&-directories)
+- [Files and Directories](#files-and-directories)
 - [Installation](#installation)
 - [Author](#author)
 - [Acknowledgment](#acknowledgment)
@@ -31,10 +31,10 @@ Living the Lazy Live is a simple blog website that aims to share tips and ideas 
 - HTML
 - CSS 
 
-## Files & directories
-- index.html : the home page
-- about-me.html : the destinations page
-- recent-post.html : the team page
+## Files and Directories
+- index.html : the homepage
+- about-me.html : the About Me page
+- recent-post.html : the recent posts page
 - index.css : the css page
 - images : the directory containing the images
 
