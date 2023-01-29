@@ -10,8 +10,6 @@ Fully responsive blog exploring minimalism in life using HTML and CSS
 - [Files and Directories](#files-and-directories)
 - [Installation](#installation)
 - [Author](#author)
-- [Acknowledgment](#acknowledgment)
-
 
 ## Overview
 
@@ -28,8 +26,8 @@ Living the Lazy Live is a simple blog website that aims to share tips and ideas 
 
 ## Built with
 
-- HTML
-- CSS 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 
 ## Files and Directories
 - index.html : the homepage
@@ -45,11 +43,11 @@ Living the Lazy Live is a simple blog website that aims to share tips and ideas 
 
 ## Author
 **Fatimata Ndiaye**
-- [Profile](https://github.com/fatima-xs "Fatima Ndiaye") 
-- [Email](mailto:fatimanndiaye@gmail.com?subject=Hi "Hi!")
 
-## Acknowledgment
-Thanks to [Kevin Powell](https://github.com/kevin-powell) for his amazing guidance throughout this project.
+[![Email](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fatimanndiaye@gmail.com)
+[![Github profile](https://img.shields.io/badge/-Github-343a40?style=flat&logo=github&logoColor=white)](https://github.com/fatima-xs)
+
+
 
 
 
